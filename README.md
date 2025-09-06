@@ -1,4 +1,10 @@
-# 🔄 Portfolio Dashboard - Architecture & Workflow
+# 🔄 Portfolio Dashboard  
+📊 A full-stack portfolio tracking app with **real-time stock data, analytics, and insights**.
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs)
+![Supabase](https://img.shields.io/badge/Supabase-Backend-green?style=flat-square&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ## System Architecture
 
