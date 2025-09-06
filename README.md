@@ -6,6 +6,25 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
+# 🔄 Portfolio Dashboard  
+
+[![Live Demo](https://img.shields.io/badge/Demo-Vercel-green?style=for-the-badge&logo=vercel)](https://portfolio-tracker-green.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/antima121-bit/Portfolio-Tracker)
+
+### Portfolio Dashboard
+<img width="1880" height="933" alt="image" src="https://github.com/user-attachments/assets/f8d04e91-f2c5-4f67-b29e-3370763fb04c" />
+<img width="1487" height="912" alt="image" src="https://github.com/user-attachments/assets/22e53f3c-3133-4cae-94b9-fba303e1698e" />
+<img width="1416" height="960" alt="image" src="https://github.com/user-attachments/assets/7d1156f6-5916-4b5a-9a8d-b02f1014bb23" />
+<img width="1327" height="585" alt="image" src="https://github.com/user-attachments/assets/88787b40-35a8-456a-a0d4-76053166b7a1" />
+<img width="1307" height="592" alt="image" src="https://github.com/user-attachments/assets/ae30e85e-3817-4f21-9835-f038c4718732" />
+<img width="1252" height="651" alt="image" src="https://github.com/user-attachments/assets/b0b3e0e2-2f37-447a-8daf-408551cf8252" />
+<img width="1298" height="710" alt="image" src="https://github.com/user-attachments/assets/29e08ce6-2584-4304-99a1-d670b30e9534" />
+
+
+> The dashboard shows **total investment, current value, gain/loss, holdings, sector performance, and portfolio allocation** at a glance.
+
+
+
 ## System Architecture
 
 ```
@@ -23,6 +42,20 @@
 │   - Charts      │    │   - /api/stocks  │    │   - holdings    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
+
+## 📑 Table of Contents
+1. [System Architecture](#system-architecture)
+2. [Data Flow Workflow](#data-flow-workflow)
+3. [Technology Stack](#technology-stack-workflow)
+4. [Component Architecture](#component-architecture)
+5. [API Architecture](#api-architecture)
+6. [Database Schema](#database-schema-workflow)
+7. [Security](#security-workflow)
+8. [Deployment](#deployment-workflow)
+9. [Performance Optimizations](#performance-optimizations)
+10. [Monitoring & Analytics](#monitoring--analytics)
+11. [Development Workflow](#development-workflow)
+12. [Future Enhancements](#future-enhancements)
 
 ## Data Flow Workflow
 
@@ -197,3 +230,11 @@ npm run type-check   # TypeScript validation
 - **WebSockets** - Real-time bidirectional communication
 - **PWA** - Progressive web app features
 - **Offline Support** - Service worker implementation
+
+- ## 📬 Contact
+- **Author**: [Antima Mishra](https://github.com/antima121-bit)  
+- **Email**: antimamishra113@gmail.com  
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/antima-mishra-6483ba252/)  
+ Vercel Demo Link: https://portfolio-tracker-green.vercel.app/
+
+
